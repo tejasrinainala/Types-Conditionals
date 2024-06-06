@@ -7,7 +7,7 @@ if(time=="morning")
 {
     console.log("Good morning!")
 }
-else if(timw=="afternoon")
+else if(time=="afternoon")
 {
     console.log("Good afternoon!")
 }
